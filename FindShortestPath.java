@@ -1,4 +1,3 @@
-// Shourya Nundy (251282929) Assignment 3
 import java.io.FileNotFoundException;
 
 public class FindShortestPath

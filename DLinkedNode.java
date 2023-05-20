@@ -1,4 +1,3 @@
-// Shourya Nundy (251282929) Assignment 3
 public class DLinkedNode<T>
 {
     // Instance Variables
